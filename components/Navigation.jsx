@@ -119,7 +119,7 @@ const Navigation = () => {
             </div>
             <div className="flex items-center space-x-2">
               <span className="text-2xl font-black bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-                EduManage
+                K.Nas
               </span>
 
               <Sparkles className="w-4 h-4 text-yellow-400 animate-pulse" />

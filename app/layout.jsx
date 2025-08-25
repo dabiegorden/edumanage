@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "EduManage - School Management System",
+  title: "K.Nas - School Management System",
   description:
     "A comprehensive platform for managing school operations, enhancing communication, and improving learning experiences.",
 };

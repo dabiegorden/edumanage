@@ -132,10 +132,10 @@ const About = () => {
             isVisible ? "translate-y-0 opacity-100" : "translate-y-8 opacity-0"
           }`}
         >
-          <h2 className="text-4xl md:text-6xl lg:text-7xl font-black text-white mb-8 leading-tight">
+          <h2 className="text-4xl md:text-6xl lg:text-7xl font-black text-white mb-8 leading-tight flex items-center gap-2 justify-center">
             About
             <span className="block bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent animate-pulse">
-              EduManage Pro
+              K.Nas
             </span>
           </h2>
           <p className="text-xl md:text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed font-light">
@@ -163,9 +163,9 @@ const About = () => {
             </h3>
             <div className="space-y-6 text-gray-300 leading-relaxed text-lg font-light">
               <p className="hover:text-white transition-colors duration-300">
-                EduManage Pro was born from a simple yet powerful vision: to
-                create a comprehensive school management system that truly
-                understands the needs of modern education.
+                K.Nas was born from a simple yet powerful vision: to create a
+                comprehensive school management system that truly understands
+                the needs of modern education.
               </p>
               <p className="hover:text-white transition-colors duration-300">
                 Our team of educators and technologists came together to build a
@@ -262,7 +262,7 @@ const About = () => {
                 </span>
               </h3>
               <p className="text-xl md:text-2xl text-gray-300 mb-12 font-light">
-                Join thousands of educators who trust EduManage Pro for their
+                Join thousands of educators who trust K. Nas Pro for their
                 school management needs.
               </p>
               <div className="flex flex-col sm:flex-row gap-6 justify-center">
